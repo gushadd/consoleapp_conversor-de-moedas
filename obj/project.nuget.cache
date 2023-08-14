@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9TrLZEz99kCZ2eVUZy8a9Z15pERvYq6pY8tGAHnLl0udEDjDIJOKomhV1U4FZXcaE1Uh5e5NV7masTQAog3NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\OneDrive\\Documentos\\Projetos C Sharp\\Conversor de Moedas\\Conversor de Moedas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
